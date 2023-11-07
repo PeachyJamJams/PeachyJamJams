@@ -1,7 +1,6 @@
-- I’m @PeachyJamJams
+- Peachy
 - I code
-- Learning C#,C++, and Python
-- I’m looking to collaborate on anything
+- Efficient in C#,C++, and Python
 - To get in contact add me to a repository!
 
 <!---
